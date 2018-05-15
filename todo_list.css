@@ -1,0 +1,36 @@
+.content {  
+color: white;  
+background: #223c55;  
+padding: 1em;  
+text-align: center;  
+width: 30%;  
+margin: auto;  
+font-family: Helvetica, Arial
+}
+.content > ul {  
+color: black;  
+list-style: none;  
+width: 50%;  
+margin: 1em auto;  
+padding: 0.3em;
+}
+.content > ul > li {  
+background-color: white;  
+margin: 0.5em;  
+width: 100%;  
+text-align: center;  
+padding: 10px;  
+-webkit-border-radius : 5px;  
+-moz-border-radius : 5px;  
+border-radius : 5px;
+}
+#todotxt {  
+-webkit-border-radius : 3px;  
+-moz-border-radius : 3px;  
+border-radius : 3px;
+}
+button {  
+-webkit-border-radius : 8px;  
+-moz-border-radius : 8px;  
+border-radius : 8px;
+}
